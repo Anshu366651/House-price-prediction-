@@ -1,7 +1,9 @@
 # House-price-prediction-
 house-price-prediction/
 ├── data/
+
 │   └── house_prices.csv         
+
 ├── notebooks/
 │   └── house_price_model.ipynb   
 ├── src/
