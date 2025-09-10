@@ -9,6 +9,7 @@ We preprocess the data, train a model, evaluate its accuracy, and generate predi
 
 ## Features
  **Data Preprocessing:** Handles missing values & encodes categorical locations.
+
 **Model Training:** Trains a Linear Regression model on housing data.
 **Evaluation:** Calculates accuracy using **R² score**.
  **Prediction:** Gives price predictions for user-provided inputs.
